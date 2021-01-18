@@ -1,7 +1,7 @@
-package factory1_test
+package factory_test
 
 import (
-	. "github.com/GUTINGLIAO/design-pattern-go/factory1"
+	. "github.com/GUTINGLIAO/design-pattern-go/factory"
 	"reflect"
 	"testing"
 )

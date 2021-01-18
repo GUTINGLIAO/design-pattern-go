@@ -8,7 +8,7 @@ factory包实现了工厂模式及其一系列变种
 
 */
 
-package factory1
+package factory
 
 import (
 	"errors"
